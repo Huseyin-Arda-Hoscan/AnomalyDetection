@@ -19,4 +19,4 @@ Model eğitimi "ana.ipynb" dosyası ile gerçekleştirildi. "main.py" dosyası k
 
 Projenin akademik altyapısı, metodolojisi, model mimarisi ve detaylı test sonuçları için hazırlanan teze aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-* 📄 **[Bitirme Tezi Raporu (PDF)](./docs/HDFS_Log_Anomaly_Detection_Report.pdf)**
+* 📄 **[Bitirme Tezi Raporu (PDF)](https://github.com/Huseyin-Arda-Hoscan/AnomalyDetection/blob/main/docs/HDFS_Log_Anomaly_Detection_Report.pdf.pdf)**
