@@ -14,3 +14,9 @@ Bu proje, geleneksel güvenlik yöntemlerinin yetersiz kaldığı siber güvenli
 
 Proje hakkında ki tüm bilgileri Tez Raporu, Final Sunumu ve Poster/BitirmeProjesi_21010310057.pdf kısmında bulabilirsiniz.
 Model eğitimi "ana.ipynb" dosyası ile gerçekleştirildi. "main.py" dosyası kodları "ana.ipynb" dosyası kodları ile aynıdır sadece format değişikliği bulunur. Proje için dosyayı indirmenin ardından "AnomalyDetectionGUI.py" yi çalıştırarak arayüze ulaşılabilir ve arayüz kullanılabilir. Tüm joblib dosyaları "outputs" klasörü içerisindedir. Projede bulunan "first_try/first.ipynb" dosyası ilk eğitim denemesidir. Başarı oranlarının düşük olması sebebiyle kullanılmamıştır (incelenebilmesi adına paylaşılmıştır).
+
+## 📚 Dokümantasyon & Proje Raporu
+
+Projenin akademik altyapısı, metodolojisi, model mimarisi ve detaylı test sonuçları için hazırlanan teze aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+* 📄 **[Bitirme Tezi Raporu (PDF)](./docs/HDFS_Log_Anomaly_Detection_Report.pdf)**
